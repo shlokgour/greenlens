@@ -1,0 +1,8 @@
+{
+  "name": "Copy of GreenLens",
+  "description": "A powerful AI-driven greenwashing detection app that analyzes product labels, ingredients, and claims to reveal the truth behind marketing.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
